@@ -72,7 +72,6 @@ function getMostExpensive() {
 }
 
 function Init() {
-    
     const getTotalLength = document.querySelectorAll("li").length;
 
     avaiableProducts();
